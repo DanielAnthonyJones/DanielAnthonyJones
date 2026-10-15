@@ -12,7 +12,7 @@
 
 Data Scientist who loves machine learning, data analytics and data engineering
 
-🔭 &nbsp;I'm currently working on **using LLMs for Geolocation**  
+🔭 &nbsp;I'm currently working on two projects... **A Predictive health monitoring system and CRM RFM analysis of the S&P 500**  
 🌱 &nbsp;I'm currently learning **Microsoft Azure Data &amp; AI Fundamentals**
 
 ### 🛠️ Tech Stack
